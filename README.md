@@ -2,3 +2,4 @@
 
 started working on project and researching icons, images to inspire me for creating icons.
 
+started creating first icon, cat paw.
