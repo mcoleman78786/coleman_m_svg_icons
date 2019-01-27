@@ -14,3 +14,11 @@ moved icons over to images.
 
 accientally addded icons to assets.
 
+Did css for background and font.
+
+updated js and index.html
+
+finishes project.
+
+
+
