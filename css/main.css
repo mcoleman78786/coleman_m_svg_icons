@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden{
+	display: none;
+}
+
+.image-wrapper{
+	display: inline-block;
+	width: 10%;
+}
+
+.lipstick
+{
+	width: 5%;
+}
+
+h1{
+	font-size: 100px;
+	font-family: 'Dancing Script', cursive;
+	color: #e20555;
+	text-align: center;
+	background-color: black;
+}
+
+body{
+	background-color: #ffd2fe;
+}
